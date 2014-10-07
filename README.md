@@ -1,4 +1,1 @@
-Brocade-APIToolkit
-==================
-
-Brocade API Toolkit : A collection of Python code examples to configure and Monitor a Network OS device using REST APIs.
+Welcome to the Brocade GitHub community. Here you can download Brocade API resources, including sample scripts and documentation. Please visit Brocade API Support community at <URL> to gain support from Brocade engineers and your peers, and to give back to the community by sharing your own knowledge.
